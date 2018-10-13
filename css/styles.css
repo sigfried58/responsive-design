@@ -496,6 +496,7 @@ figure {
   }
 
   .menu.is-active {
+    left: 0;
   }
 
   .project {
